@@ -12,16 +12,15 @@ REQUIREMENTS AND LIBRARIES:
 Python 3.9+
 PyPDF2
  – PDF text extraction
+ 
 SentenceTransformers
  – text embeddings
+ 
 FAISS
  – similarity search
+ 
 Groq API
  – LLM responses
+ 
 Gradio
  – user interface
-
-HOW TO USE:
-Clone this repo
-git clone https://github.com/your-username/pdf-qa-system.git
-cd pdf-qa-system

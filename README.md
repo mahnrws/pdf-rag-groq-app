@@ -9,6 +9,7 @@ Generates accurate answers with Groq LLMs.
 Clean and minimal interface built with Gradio.
 
 REQUIREMENTS AND LIBRARIES:
+
 Python 3.9+
 PyPDF2
  – PDF text extraction
